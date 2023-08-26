@@ -22,7 +22,7 @@
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <abbr class="badge" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; height: 5rem;white-space: initial;" >{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
         </div>
