@@ -6,9 +6,8 @@
       "url": "",
       "startDate": "2021-06-01",
       "endDate": "2023-09-15",
-      "summary": "",
+      "summary": "Conducting extensive research for novelty detection in computer vision, optimizing neural network generation with generative models, and enhancing underwater robotic manipulation through uncertainty analysis.",
       "highlights": [
-        "Computer Vision"
       ]
     },
     {
@@ -17,9 +16,8 @@
       "url": "",
       "startDate": "2021-02-01",
       "endDate": "2021-05-31",
-      "summary": "",
+      "summary": "Developed deep learning algorithms for smart cities, published a survey on deep architectures for autonomous driving, and assisted in creating efficient networks for person re-identification.",
       "highlights": [
-        "Computer Vision"
       ]
     },
     {
@@ -28,9 +26,8 @@
       "url": "",
       "startDate": "2017-03-01",
       "endDate": "2021-02-01",
-      "summary": "",
+      "summary": "Developed deep networks for human activity recognition, crowd counting, and one-shot anomaly recognition; contributed to video summarization and multi-view action recognition techniques.",
       "highlights": [
-        "Computer Vision"
       ]
     }
   ],
@@ -57,22 +54,28 @@
       "endDate": "2016-10-01",
       "score": "",
       "courses": [
-        ""
+        "Final Year Project: Integrating Salient Colors with Rotational Invariant Texture Features for Image Representation in Retrieval Systems"
       ]
     }
   ],
   "awards": [
     {
       "title": "Dean’s Best Researcher Award",
-      "date": "Jan 2021",
+      "date": "2021-01-01",
       "awarder": "Sejong University, Seoul, South Korea",
-      "summary": ""
+      "summary": "Annually awarded by Sejong University to the department's top-performing researcher."
     },
     {
-      "title": "Dean’s Best Researcher Award",
-      "date": "Jan 2021",
+      "title": "Fully Funded Scholarship Program",
+      "date": "2017-03-01",
       "awarder": "Sejong University, Seoul, South Korea",
-      "summary": ""
+      "summary": "Granted by Sejong University in recognition of academic excellence and potential, covering full tuition and fees."
+    },
+    {
+      "title": "Bachelor's Degree Merit Certificate",
+      "date": "2016-10-01",
+      "awarder": "Islamia College Peshawar, Pakistan",
+      "summary": "Awarded for securing the 3rd position among the entire graduating batch at ICP, 2016."
     }
   ],
   "certificates": [],
