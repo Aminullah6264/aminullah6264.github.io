@@ -53,10 +53,9 @@ layout: default
               {% if data[0] == "meta" or data[1].size == 0 %}
                 {% continue %}
               {% endif %}
-              {% case data[0] %}
-              {% when "languages" %}
+              {% if data[0] == "languages" or data[0] == "awards" %}
                {% continue %}
-              {% endcase %}
+              {% endif %}
               <a class="anchor" id="{{ data[0] }}"></a>
               <div class="card mt-3 p-3">
                 <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
@@ -68,8 +67,6 @@ layout: default
                     {% include resume/education.html %}
                   {% when "work" %}
                     {% include resume/work.html %}
-                  {% when "awards" %}
-                    {% include resume/awards.html %}
                     
                     
                 {% endcase %}
