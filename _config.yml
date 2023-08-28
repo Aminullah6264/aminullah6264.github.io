@@ -8,7 +8,8 @@ middle_name:
 last_name: Ullah
 email: ullaham@oregonstate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Amin Ullah is a dedicated Computer Vision, Deep Learning Researcher currently working as a Postdoctoral Scholar at the Deep Machine Vision Lab, Oregon State University in Corvallis, Oregon. He obtained his Ph.D. from the Intelligent Media Laboratory (IMLab) at Sejong University, South Korea, where he was privileged to be mentored by Prof. Sung Wook Baik. In addition, Dr. Khan Muhammad played a significant role as his co-supervisor. Presently, Amin collaborates with Prof. Fuxin Li at the Collaborative Robotics and Intelligent Systems (CoRIS) Institute, situated at Oregon State University. With his vast expertise and unwavering commitment, Amin Ullah stands as a prominent figure in the realm of computer vision and machine learning research.
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
