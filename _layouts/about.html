@@ -63,8 +63,10 @@ layout: default
                 {% case data[0] %}
                   {% when "basics" %}
                     {% include resume/basics.html %}
-                  {% when "education" %}
-                    {% include resume/education.html %}
+                  {%- comment -%}
+                        {% when "education" %}
+                          {% include resume/education.html %}
+                  {%- endcomment -%}
                   {% when "work" %}
                     {% include resume/work.html %}
                     
