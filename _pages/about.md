@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior AI/ML Software Engineer at <a href='https://www.boeing.com/'>Boeing Research & Technology Software</a>, Seattle, WA, USA
+subtitle: Senior AI/ML Engineer at <a href='https://www.boeing.com/'>Boeing Research & Technology Software</a>, Seattle, WA, USA
 
 profile:
   align: right
